@@ -1,4 +1,4 @@
-                                                   # Hi 👋, I'm Jeet
+<h1><style> Text allign = 'center' </style> # Hi 👋, I'm Jeet </h1>
 
 💻 Software & Web Developer  
 🔐 Cybersecurity Enthusiast  
