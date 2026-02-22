@@ -1,4 +1,4 @@
-<h1><style> Text allign = 'centre' </style> # Hi 👋, I'm Jeet </h1>
+<h1> # Hi 👋, I'm Jeet </h1>
 
 💻 Software & Web Developer  
 🔐 Cybersecurity Enthusiast  
