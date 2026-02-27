@@ -19,6 +19,3 @@
 - Backend: Node.js, Express, Python
 - Tools: Git, Linux
 - Security: OWASP, Network Security Basics
-
----
-<img width="468" height="612" alt="image" src="https://github.com/user-attachments/assets/345a62e1-9bee-40cb-94de-35770b436e57" />
